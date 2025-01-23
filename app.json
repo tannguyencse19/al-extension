@@ -1,0 +1,33 @@
+{
+    "id": "8e213c9d-c495-463b-807e-a3f0d3abb4d2",
+    "name": "ALExtension",
+    "publisher": "Timothy Nguyen",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "23.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true,
+        "applyToDevExtension": true
+    },
+    "runtime": "12.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
